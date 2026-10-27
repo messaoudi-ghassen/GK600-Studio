@@ -34,15 +34,17 @@ To uninstall: **Settings → Apps → GK600 Studio → Uninstall**.
 |---|---|---|
 | 🏠 **Home** | Your keyboard, live battery level, connection (2.4G / USB / Bluetooth), active lighting and config | ✅ |
 | 💡 **Lighting Mode** | All 19 onboard effects with colour, brightness, speed and direction | ✅ |
+| 🎨 **User Lighting** | Paint your own colour on every key | ✅ |
 | ⚡ **Real-time Lighting** | Animated effects driven by the app | ✅ |
-| ⚙️ **System Settings** | Key response, sleep time, Win / Alt+F4 / Alt+Tab lock, Fn switch, reset, start with Windows | ✅ |
+| 🎵 **Music Rhythm** | Lighting that follows the music on your PC, with colour and background modes | ✅ |
+| ⌨️ **Key Settings** | Remap any key: other keys and combinations, mouse buttons, media keys, Windows shortcuts, macros, disable | ✅ |
+| 🚀 **Custom actions** | Keys that type a text, open a program, a file or a website | ✅ |
+| ⏺️ **Macro Manager** | Record keyboard and mouse macros with timing, 5 play modes | ✅ |
 | 🖼️ **TFT Screen** | Animation editor for the 160×96 screen, upload your own GIFs | ✅ |
 | 📋 **Configs** | Several setups, switch between them in one click | ✅ |
-| ⌨️ **Key Settings** | Disable / restore keys ✅ · remap to keys, mouse, media, shortcuts, macros | ⚠️ beta |
-| 🎨 **User Lighting** | Paint your own per-key colours | ⚠️ beta |
-| 🎵 **Music Rhythm** | Lighting that follows the music on your PC | ⚠️ beta |
-| ⏺️ **Macro Manager** | Record and edit macros | ⚠️ beta |
-| 🚀 **Custom actions** | Keys that open a program / website or type text | 🔜 coming soon |
+| ⚙️ **System Settings** | Key response, sleep time, Win / Alt+F4 / Alt+Tab lock, Fn switch, reset, start with Windows | ✅ |
+
+Every change is sent to the keyboard instantly, like the official app.
 
 ## Good to know
 
@@ -51,6 +53,8 @@ To uninstall: **Settings → Apps → GK600 Studio → Uninstall**.
 - **Uploading a GIF to the screen** needs **both the 2.4G receiver and the USB cable** connected; the animation is
   sent over the cable and takes about a minute.
 - **Keyboard screen pages:** use **Fn + ← / →** to switch pages and **Fn + Enter** to confirm.
+- **Close the official MSI app** while using GK600 Studio: both apps talk to the keyboard and can get in each
+  other's way. GK600 Studio shows a notice with a one-click "Close MSI app" button when it detects it.
 - **Your data stays on your PC** (`%LOCALAPPDATA%\GK600 Studio`). If the official MSI app was installed, your
   current lighting and your saved GIFs are picked up automatically.
 

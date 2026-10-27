@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇ Download the latest version</b></a>
+  <a href="https://github.com/messaoudi-ghassen/GK600-Studio/releases/latest"><b>⬇ Download the latest version</b></a>
 </p>
 
 ![GK600 Studio](docs/screenshot-home.png)
@@ -18,8 +18,8 @@
 
 ## Install
 
-1. Go to **[Releases](../../releases/latest)** and download **`GK600-Studio-Setup-x.y.z.exe`**.
-2. Run it. No administrator rights are needed.
+1. Go to **[Releases](https://github.com/messaoudi-ghassen/GK600-Studio/releases/latest)** and download **`GK600-Studio-x.y.z.zip`**.
+2. Open the zip and run **`GK600-Studio-Setup-x.y.z.exe`**. No administrator rights are needed.
 3. If Windows shows *"Windows protected your PC"*, click **More info → Run anyway**. This appears because the
    installer is new and not yet code-signed.
 4. Open **GK600 Studio** from your desktop or the Start menu. Your keyboard is detected automatically.
@@ -62,14 +62,14 @@ To uninstall: **Settings → Apps → GK600 Studio → Uninstall**.
 | MSI FORGE GK600 (wired) | should work, not yet tested |
 | MSI FORGE TKL Frieren Edition | should work, not yet tested |
 
-Own another model? Please [open an issue](../../issues) and tell us what works.
+Own another model? Please [open an issue](https://github.com/messaoudi-ghassen/GK600-Studio/issues) and tell us what works.
 
 ## FAQ
 
 **Is it safe?** The app only sends the same kind of settings the official MSI app sends. If something ever looks
 wrong on the keyboard, switch it off for 10 seconds and on again.
 
-**Something doesn't work / I have an idea.** [Open an issue](../../issues) with your keyboard model and what you did.
+**Something doesn't work / I have an idea.** [Open an issue](https://github.com/messaoudi-ghassen/GK600-Studio/issues) with your keyboard model and what you did.
 
 ## License
 
